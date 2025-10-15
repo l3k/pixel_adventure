@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Pixel Adventure Game" src=".github/gameplay.mov" width="60%">
+  <img alt="Pixel Adventure Game" src=".github/gameplay.mp4" width="60%">
 </p>
 
 ## :rocket: Tecnologias
